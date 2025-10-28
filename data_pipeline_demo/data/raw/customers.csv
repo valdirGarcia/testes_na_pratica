@@ -1,0 +1,11 @@
+customer_id,name,signup_date,state,spending
+1,Ana,2025-01-10,SP,120.50
+2,Bruno,2025-02-03,RJ,99.90
+3,Camila,2025-02-20,MG,0
+4,Diego,2025-03-01,SP,200.00
+5,,2025-03-05,SP,50.00
+6,Eduarda,2025-03-06,sp,-5.00
+7,Felipe,2025-03-07,XX,35.50
+7,Felipe,2025-03-07,SP,35.50
+8,Giovana,2025-03-10,PR,
+9,Helena,2025-03-11,PR,75.00
